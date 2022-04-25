@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinTodoApp</string>
+    <string name="welcome">Welcome, add  a Todo</string>
+    <string name="add_todo">Add a todo</string>
+    <string name="enter_todo_title">Enter todo title</string>
+
+</resources>
