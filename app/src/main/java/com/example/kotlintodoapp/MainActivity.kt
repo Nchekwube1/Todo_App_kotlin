@@ -29,5 +29,9 @@ class MainActivity : AppCompatActivity() {
                 inputVal.text.clear()
             }
         }
+
+        delTodo.setOnClickListener{
+            todoAdapter.delDoneTodos()
+        }
         }
     }
